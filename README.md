@@ -38,13 +38,13 @@ This chat application allows users to send and receive messages in real-time. It
    ```bash
    git clone <repository-url>
 
-Commands to RUN the Project
+## Commands to RUN the Project
 
-composer install
-npm install
-cp .env.example .env
-php artisan migrate
-php artisan key:generate
-php artisan serve
-npm run dev
+ - composer install
+ - npm install
+ - cp .env.example .env
+ - php artisan migrate
+ - php artisan key:generate
+ - php artisan serve
+ - npm run dev
 
